@@ -1,4 +1,4 @@
-<h1>Pi-Hole youtube Ad blocklist</h1>
+<h1>Pi-Hole YouTube Ad blocklist</h1>
 https://raw.githubusercontent.com/rooskie94/PiHoleYoutubeAds/main/PiHoleYoutubeAds
 <br>
 <h4>To block some Youtube Ads on Pi-Hole paste this URL into the Adslist then update gravity(This wont block all ads)</h4>
